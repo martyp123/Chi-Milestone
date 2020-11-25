@@ -1,3 +1,13 @@
-# Chi-Milestone
-New website
-Things I would like the website or sites to do is to be able to provide online learning and live classes. My other idea is to create a website/program that can track individuals (or groups) health parameters, along with providing exercise and healthy lifestyle prescriptions for users. My initial goal is to achieve building a basic website, then develop my skills to build a more advanced website. When I have achieved this, I will have to develop the skills to be a top code writer for this industry and will be able to provide my skills to other industries.  
+
+<!DOCTYPE html>
+<html>
+<title>Chi Milestone Home page</title>
+<body>
+
+<h2 title="header">Chi Milestone</h2>
+<p title="descritpion">Providing exercise classes for all abilities and people with medical condtions</p>
+<p style="color:red;">You can join a class online or at one of our centres.</p>
+<img src="img/p4.jpg" alt="Home page picture"  width="500" height="600">
+
+</body>
+</html>
